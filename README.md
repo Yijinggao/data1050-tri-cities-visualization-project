@@ -1,4 +1,4 @@
-# Tri-Cities Load Interconnection capability Visualization
+# Tri-Cities Load Interconnection Capability Visualization
 > DATA1050 Project Fall 2021
 
 - Dataset: 
