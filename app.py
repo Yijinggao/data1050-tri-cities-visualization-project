@@ -147,7 +147,7 @@ def ad_description():
     Returns anormaly detection description in markdown
     """
     return html.Div(children=[dcc.Markdown('''
-        # Anormaly Detection
+        # Anomaly Detection
         ''', className='description_header'),
         html.Div('The anomaly detection tool demonstrates how you can use a reconstruction \
                  convolutional autoencoder model to detect anomalies in timeseries data. We have a \
